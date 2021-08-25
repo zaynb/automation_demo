@@ -3,4 +3,6 @@
 tools:
 Selenium Webdriver by using Java 
 Technologies :
-Maven & TestNG & pom 
+Maven & TestNG
+
+Framework: Page object Model
